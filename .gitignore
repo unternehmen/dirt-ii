@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+
+# Backup files
+.*.swp
+*~
+*.bak
+
+# Compiled Python objects
+*.pyc
+
+# Python cache
+__pycache__/
+
+# Ctags files
+ctags
+tags
